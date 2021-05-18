@@ -1,0 +1,144 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Cabin', sans-serif;
+    color:#40514E;
+}
+h1{
+  margin: 20px auto 0px auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  color: #66BFBF;
+}
+h2{
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+  }
+  .middle-container{
+background-color: #f6f6f6;
+  }
+  hr{
+    border-style: dotted none none none;
+    height:5px;
+    border-width:10px;
+    border-color:#EAF6F6;
+    width:80px;
+    margin:auto;
+}
+.bottom-container{
+  background-color:#66BFBF;
+  padding:50px 0 20px;
+  color:#11999E;
+}
+.contact-me{
+  width:40%;
+  margin:auto;
+  padding-bottom: 70px;
+
+}
+.divfirst {
+  background-color: #EAF6F6;
+  border: 10px;
+  padding-top :100px;
+  position:relative;
+  line-height: 1;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 100px;
+  }
+.topcloud{
+  position: relative;
+  left:330px;
+  top: 1px;
+}
+.skillrow{
+  width: 50%;
+  margin: 100px auto 150px auto;
+  line-height: 2;
+}
+.divthird {
+
+}
+.s2{
+  height: 200px;
+  width:  200px;
+  float:right;
+  margin: 30px;
+}
+.myimage{
+  height:150px;
+  width:150px;
+}
+.s1
+{
+  height:250px;
+  width:250px;
+  float: left;
+  margin: 30px;
+}
+h3
+{
+  color: #11999E;
+}
+a{
+  color: #11999E;
+}
+.hey{
+  text-decoration: underline;
+}
+.profile{
+  padding:100px;
+  font-family: 'Merienda', cursive;
+}
+p{
+  font-weight:bolder;
+}
+h2
+{
+  color:#66BFBF;
+  font-size: 2.5 rem;
+  font-weight: normal;
+}
+.btn {
+  background: #8ab6d6;
+  background-image: -webkit-linear-gradient(top, #8ab6d6, #28b5b5);
+  background-image: -moz-linear-gradient(top, #8ab6d6, #28b5b5);
+  background-image: -ms-linear-gradient(top, #8ab6d6, #28b5b5);
+  background-image: -o-linear-gradient(top, #8ab6d6, #28b5b5);
+  background-image: linear-gradient(to bottom, #8ab6d6, #28b5b5);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #289672;
+  background-image: -webkit-linear-gradient(top, #289672, #91c788);
+  background-image: -moz-linear-gradient(top, #289672, #91c788);
+  background-image: -ms-linear-gradient(top, #289672, #91c788);
+  background-image: -o-linear-gradient(top, #289672, #91c788);
+  background-image: linear-gradient(to bottom, #289672, #91c788);
+  text-decoration: none;
+}
+.Copy{
+  color:#EAF6F6;
+  font-size: 0.75 rem;
+  padding: 20px 0 5px;
+}
+a{
+  color:#3d84b8;
+    font-family: 'Noto Sans JP', sans-serif;
+    margin: 20px 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+  color:#dbf6e9;
+}
